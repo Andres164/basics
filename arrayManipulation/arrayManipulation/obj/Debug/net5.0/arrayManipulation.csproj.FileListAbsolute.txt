@@ -1,0 +1,16 @@
+C:\Users\hp13\Desktop\Repositorios\Basics\arrayManipulation\arrayManipulation\bin\Debug\net5.0\arrayManipulation.exe
+C:\Users\hp13\Desktop\Repositorios\Basics\arrayManipulation\arrayManipulation\bin\Debug\net5.0\arrayManipulation.deps.json
+C:\Users\hp13\Desktop\Repositorios\Basics\arrayManipulation\arrayManipulation\bin\Debug\net5.0\arrayManipulation.runtimeconfig.json
+C:\Users\hp13\Desktop\Repositorios\Basics\arrayManipulation\arrayManipulation\bin\Debug\net5.0\arrayManipulation.runtimeconfig.dev.json
+C:\Users\hp13\Desktop\Repositorios\Basics\arrayManipulation\arrayManipulation\bin\Debug\net5.0\arrayManipulation.dll
+C:\Users\hp13\Desktop\Repositorios\Basics\arrayManipulation\arrayManipulation\bin\Debug\net5.0\ref\arrayManipulation.dll
+C:\Users\hp13\Desktop\Repositorios\Basics\arrayManipulation\arrayManipulation\bin\Debug\net5.0\arrayManipulation.pdb
+C:\Users\hp13\Desktop\Repositorios\Basics\arrayManipulation\arrayManipulation\obj\Debug\net5.0\arrayManipulation.csproj.AssemblyReference.cache
+C:\Users\hp13\Desktop\Repositorios\Basics\arrayManipulation\arrayManipulation\obj\Debug\net5.0\arrayManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp13\Desktop\Repositorios\Basics\arrayManipulation\arrayManipulation\obj\Debug\net5.0\arrayManipulation.AssemblyInfoInputs.cache
+C:\Users\hp13\Desktop\Repositorios\Basics\arrayManipulation\arrayManipulation\obj\Debug\net5.0\arrayManipulation.AssemblyInfo.cs
+C:\Users\hp13\Desktop\Repositorios\Basics\arrayManipulation\arrayManipulation\obj\Debug\net5.0\arrayManipulation.csproj.CoreCompileInputs.cache
+C:\Users\hp13\Desktop\Repositorios\Basics\arrayManipulation\arrayManipulation\obj\Debug\net5.0\arrayManipulation.dll
+C:\Users\hp13\Desktop\Repositorios\Basics\arrayManipulation\arrayManipulation\obj\Debug\net5.0\ref\arrayManipulation.dll
+C:\Users\hp13\Desktop\Repositorios\Basics\arrayManipulation\arrayManipulation\obj\Debug\net5.0\arrayManipulation.pdb
+C:\Users\hp13\Desktop\Repositorios\Basics\arrayManipulation\arrayManipulation\obj\Debug\net5.0\arrayManipulation.genruntimeconfig.cache
